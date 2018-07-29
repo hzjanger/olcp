@@ -12,7 +12,6 @@
         <module>olcp-consumer</module>
         <module>olcp-provider</module>
         <module>olcp-wechat</module>
-
     </modules>
     <parent>
         <groupId>org.springframework.boot</groupId>
